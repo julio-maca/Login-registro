@@ -1,7 +1,7 @@
 body{
     background: linear-gradient(to right, #DF0101, #FF8000 );
 }
-#login, #registro  {
+#login, #registro {
     width: 50%;
     border: 1px solid gray;
     border-radius: 10px;
@@ -10,9 +10,17 @@ body{
     background: gray;
     box-shadow: 10px 10px 10px 0px rgba(0,0,0, .5);
 }
-#link{
+#salir{
+ text-align: right;
+ margin-right: 45px;
+}
+#link {
     text-align: right;
 }
 #link a{
     color: black;
+}
+#ms1 { 
+    margin-left: 45px;
+    margin-right: 45px;
 }
